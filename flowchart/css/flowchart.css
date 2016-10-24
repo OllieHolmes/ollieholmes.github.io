@@ -11,17 +11,17 @@ body {
 
 section {
   background-color: #CCCCCC;
-
 }
+
 
 div {
-  background-color: #AAAAAA;
   margin: auto;
-  padding: 10px;
 
 }
 
-#table {
+.table {
   background-color: #EEEEEE;
   border: 1px solid #000000;
+  padding: 10px;
+
 }
