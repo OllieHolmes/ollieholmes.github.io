@@ -7,17 +7,21 @@ body {
 
 }
 
-.flowchart {
-  background-color: #333333;
-  border: 5px solid #000000;
-  padding: 10px;
+/* FLOWCHART */
+
+section {
+  background-color: #111111;
 
 }
 
 div {
-  background-color: #555555;
+  background-color: #222222;
   margin: auto;
-  border: 5px solid #000000;
   padding: 10px;
 
+}
+
+#table {
+  background-color: #050505;
+  border: 1px solid #000;
 }
