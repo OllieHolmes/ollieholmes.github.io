@@ -7,11 +7,14 @@ body {
 }
 
 .flowchart {
-  border: 2px black;
+  border: 5px solid black;
+  padding: 10px;
+
 }
 
 #table {
   margin: auto;
-  border: 2px black;
+  border: 5px solid black;
+  padding: 10px;
 
 }
