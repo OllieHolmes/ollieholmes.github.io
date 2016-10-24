@@ -26,10 +26,10 @@
        ...
      </div>
      <div class="chart">
+       <form action="action_page.php" method="post">
        <div class="col-sm-3">
          <div class="table" id="kickoff">
            <h3>Kickoff</h3>
-           <form>
              <h5>Pre-meeting Research</h5>
              <input type="checkbox" name="visit-company" value="Yes1"> Visit company / product website<br>
              <input type="checkbox" name="past-work" value="Yes1"> Look at past exampled already done on Youtube and Vimeo<br>
@@ -54,7 +54,6 @@
              <input type="checkbox" name="q-project-style" value="Yes1"> What kind of style are you trying to achieve?<br>
              <input type="checkbox" name="q-style-examples" value="Yes1"> Do you have any examples?<br>
              <input type="checkbox" name="q-project-delivered" value="Yes1"> How do you want the project delivered when it is finished?
-           </form>
          </div>
        </div>
        <div class="col-sm-3">
@@ -107,7 +106,9 @@
            <input type="checkbox" name="upload-movie" value="Yes1"> Upload movie file to server or copy to external drive for delivery<br>
            <input type="checkbox" name="email-client" value="Yes1"> Email client telling them the file is ready to download<br>
            <input type="checkbox" name="follow-up" value="Yes1"> Follow-up with client to make sure they received the file
+           <input type="submit" value="Submit">
          </div>
+       </form>
        </div>
      </div>
    </section>
