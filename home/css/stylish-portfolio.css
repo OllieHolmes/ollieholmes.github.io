@@ -164,9 +164,7 @@ hr.small {
 
 /* About */
 
-.about {
-    padding: 80px 0;
-}
+
 
 /* Featurettes
 ------------------------- */
@@ -177,6 +175,8 @@ hr.small {
 
 /* Thin out the marketing headings */
 .featurette-heading {
+  margin-top:
+  font-size: 50px;
   font-weight: 300;
   line-height: 1;
   letter-spacing: -1px;
