@@ -162,9 +162,16 @@ hr.small {
     -o-background-size: cover;
 }
 
+#title-name {
+  font-family: jinky, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 80px;
+  
+
+}
+
 /* About */
-
-
 
 /* Featurettes
 ------------------------- */
@@ -184,6 +191,9 @@ hr.small {
   letter-spacing: -1px;
 }
 
+#about-me {
+
+}
 
 /* Services */
 
