@@ -212,8 +212,7 @@ hr.small {
 /* Services */
 
 .services {
-    padding: 80px 0;
-    display: flex;
+    padding: 50px 0;
 }
 
 .service-item {
