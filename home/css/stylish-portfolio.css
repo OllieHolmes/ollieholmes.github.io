@@ -195,10 +195,12 @@ hr.small {
 
 
 #about-me-div {
-
+  position: relative;
+  right: 40px;
 }
 
 #about-me-p {
+  text-align: center;
 
 }
 
