@@ -155,8 +155,6 @@ hr.small {
     position: relative;
     width: 100%;
     height: 100%;
-    color: ##FFEEDD;
-    text-shadow: 2px black;
     background: url(../img/Laurel_Canyon002.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -169,6 +167,8 @@ hr.small {
   font-style: normal;
   font-weight: 400;
   font-size: 400px;
+  color: ##FFEEDD;
+  text-shadow: 2px black;
 
 }
 
