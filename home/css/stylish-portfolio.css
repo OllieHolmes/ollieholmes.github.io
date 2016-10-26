@@ -150,6 +150,10 @@ hr.small {
 
 /* Header */
 
+header {
+  color: ##FFFFFF;
+}
+
 .header {
     display: table;
     position: relative;
@@ -167,7 +171,6 @@ hr.small {
   font-style: normal;
   font-weight: 400;
   font-size: 400px;
-  color: ##FFFFFF;
   text-shadow: 2px 2px #000;
 
 }
