@@ -168,7 +168,7 @@ hr.small {
   font-weight: 400;
   font-size: 400px;
   color: ##FFEEDD;
-  text-shadow: 2px black;
+  text-shadow: 2px 2px #000;
 
 }
 
