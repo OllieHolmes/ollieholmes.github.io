@@ -175,9 +175,11 @@ hr.small {
 
 /* Thin out the marketing headings */
 .featurette-heading {
-  margin-top: 120px;
-  font-size: 50px;
+  margin-top: 10px;
+  font-family: josefin, sans-serif;
+  font-style: normal;
   font-weight: 300;
+  font-size: 50px;
   line-height: 1;
   letter-spacing: -1px;
 }
