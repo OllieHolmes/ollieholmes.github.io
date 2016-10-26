@@ -150,9 +150,6 @@ hr.small {
 
 /* Header */
 
-h1 {
-  color: ##FFFFFF;
-}
 
 .header {
     display: table;
@@ -164,6 +161,10 @@ h1 {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+}
+
+h3 {
+  color: #fff;
 }
 
 #title-name {
