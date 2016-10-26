@@ -170,12 +170,12 @@ hr.small {
 ------------------------- */
 
 .featurette-divider {
-  margin: 80px 0; /* Space out the Bootstrap <hr> more */
+  margin: 40px 0; /* Space out the Bootstrap <hr> more */
 }
 
 /* Thin out the marketing headings */
 .featurette-heading {
-  margin-top:
+  margin-top: 120;
   font-size: 50px;
   font-weight: 300;
   line-height: 1;
