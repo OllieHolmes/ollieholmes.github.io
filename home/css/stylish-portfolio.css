@@ -198,8 +198,6 @@ hr.small {
 
 #about-me-div {
   position: relative;
-  display:flex;
-  flex-wrap: wrap;
   right: 200px;
 }
 
