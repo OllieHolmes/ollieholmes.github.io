@@ -197,6 +197,7 @@ hr.small {
 
 
 #about-me-div {
+  margin-top: auto;
   position: relative;
   right: 300px;
 }
