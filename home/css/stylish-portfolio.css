@@ -169,8 +169,8 @@ hr.small {
   font-family: scriptorama-tradeshow-jf, sans-serif;
   font-style: normal;
   font-weight: 400;
-  font-size: 400px;
-  text-shadow: 2px 2px #eee;
+  font-size: 250px;
+  text-shadow: 2px 2px #bbb;
 }
 
 
@@ -180,7 +180,7 @@ hr.small {
 ------------------------- */
 
 .featurette-divider {
-  padding: 100px 0 100px 0; /* Space out the Bootstrap <hr> more */
+  padding: 60px 0 60px 0; /* Space out the Bootstrap <hr> more */
 }
 
 /* Thin out the marketing headings */
@@ -198,7 +198,7 @@ hr.small {
 
 #about-me-div {
   position: relative;
-  right: 40px;
+  right: 80px;
 }
 
 #about-me-p {
