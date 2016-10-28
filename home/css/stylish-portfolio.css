@@ -20,7 +20,7 @@ body {
     display: table-cell;
     text-align: center;
     vertical-align: middle;
-    color: #333;
+    color: #ddd;
 }
 
 .text-vertical-center h1 {
@@ -169,8 +169,8 @@ hr.small {
   font-family: scriptorama-tradeshow-jf, sans-serif;
   font-style: normal;
   font-weight: 400;
-  font-size: 5rem;
-  text-shadow: 2px 2px #bbb;
+  font-size: 15rem;
+  text-shadow: none;
 }
 
 
