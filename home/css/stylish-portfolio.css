@@ -157,7 +157,7 @@ hr.small {
     position: relative;
     width: 100%;
     height: 100%;
-    background: url(../img/Laurel_Canyon002.jpg) no-repeat center center fixed;
+    background: url(../img/magicforest.png) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -169,7 +169,7 @@ hr.small {
   font-family: scriptorama-tradeshow-jf, sans-serif;
   font-style: normal;
   font-weight: 400;
-  font-size: 250px;
+  font-size: 5rem;
   text-shadow: 2px 2px #bbb;
 }
 
@@ -199,6 +199,7 @@ hr.small {
 #about-me-div {
   margin-top: 30px;
   position: relative;
+  justify-content: center;
 }
 
 
